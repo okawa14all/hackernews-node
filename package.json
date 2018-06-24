@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:okawa14all/hackernews-node.git",
   "author": "Hitoshi Okawa <14all.okawa@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.14.10"
+  }
 }
