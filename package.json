@@ -1,0 +1,8 @@
+{
+  "name": "hackernews-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:okawa14all/hackernews-node.git",
+  "author": "Hitoshi Okawa <14all.okawa@gmail.com>",
+  "license": "MIT"
+}
